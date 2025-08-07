@@ -1,3 +1,6 @@
+"If you use this code, please cite: Himanshu Tiwari, Dr. Mahipal Jetta.
+"RaFT-PDE: A Deep Prior-Free Framework for Unsupervised Vision Restoration in Medical Imaging", 2025."
+
 # RaFT-PDE
 Code for RaFT-PDE image restoration model
 # RaFT-PDE: A Deep Prior-Free Framework for Image Denoising under Multiplicative Speckle Noise
